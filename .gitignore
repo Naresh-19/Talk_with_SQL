@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+node_modules/
+*.log
+SQLDataBase_Retrieval_Using_LLM/
